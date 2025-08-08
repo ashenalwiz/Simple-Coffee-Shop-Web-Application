@@ -1,0 +1,1 @@
+the main purpose of this project is to build an deploy the web app using AWS services. such as EC2 as in the vitual server, S3 Bucket for storage purposes. moral of the project summery is to practice AWS cloud services.
